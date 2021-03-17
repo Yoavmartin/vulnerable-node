@@ -6,6 +6,8 @@
   <artifactId>jpademo</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
+  
+  
 
   <scm>
       <connection>scm:git:ssh://my.git.server.internal/home/git/jpademo</connection>
