@@ -82,7 +82,7 @@
         "phantomjs-prebuilt": "^2.1.16",
         "rewire": "^3.0.2",
         "should": "^13.2.1",
-        "sinon": "^4.5.0",
+        "sinon": "^5.0.1",
         "supertest": "3.0.0",
         "webdriverio": "^4.13.2"
     },
